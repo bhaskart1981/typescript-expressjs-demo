@@ -1,4 +1,4 @@
-# [Bhaskar Tirupati][1] NodeJs TypeScript ExpressJs Demo
+# NodeJs TypeScript ExpressJs Demo
 
 #### Installation and Running
 ```
@@ -10,9 +10,10 @@ npm start
 ```
 npm run test
 ```
-Endpoints developed with Typescript and NodeJS
-ExpressJS used to run the server local
-All Testcases not developed due to time constraint
-Folder structure follows the domain model like parse is one domain and user is one domain
-Each domain have its own controller, service and model classes
-common utilities and exception handlings available at root level.
+### Notes
+Endpoints developed with Typescript and NodeJS<br />
+ExpressJS used to run the server local<br />
+All Testcases not developed due to time constraint<br />
+Folder structure follows the domain model like parse is one domain and user is one domain<br />
+Each domain have its own controller, service and model classes<br />
+common utilities and exception handlings available at root level<br />
